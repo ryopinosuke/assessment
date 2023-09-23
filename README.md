@@ -1,2 +1,2 @@
-# assessment.ryopinosuke.github.io
+# assessment
 あなたのいいところ診断ゲーム
